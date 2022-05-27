@@ -1,9 +1,8 @@
 ## Hello GitHub Fans 👋
-[![Golang/Flutter交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "Golang/Flutter交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "Golang/Flutter交流群")
-[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:coderzhaolu@gmail.com)](mailto:coderzhaolu@gmail.com)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Coder-ZhaoLu&show_icons=true&theme=dark&count_private=true)
 ### I'm Zhao Lu
-
+[![Golang/Flutter交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "Golang/Flutter交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "Golang/Flutter交流群")
+[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:coderzhaolu@gmail.com)](mailto:coderzhaolu@gmail.com)
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - ⚡ Fun fact: Data Analysis📊
 
