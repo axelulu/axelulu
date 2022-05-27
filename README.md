@@ -13,7 +13,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 - 🌐 &#160; ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
-![Golang](https://img.shields.io/badge/-Go-333333?style=flat&logo=Golang)
+![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
