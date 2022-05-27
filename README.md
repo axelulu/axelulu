@@ -23,8 +23,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-ZhaoLu&theme=dark&layout=compact)
-
 ### 开源项目
 - [基于flutter的仿哔哩哔哩app](https://github.com/Coder-ZhaoLu/Getx-PinkApp)
 - [基于gin框架的仿哔哩哔哩app后端](https://github.com/Coder-ZhaoLu/Gin-PinkApp)
