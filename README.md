@@ -7,8 +7,6 @@
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - ⚡ Fun fact: Data Analysis📊
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-ZhaoLu&theme=dark&layout=compact)
-
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -24,6 +22,8 @@
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-ZhaoLu&theme=dark&layout=compact)
 
 ### 开源项目
 - [基于flutter的仿哔哩哔哩app](https://github.com/Coder-ZhaoLu/Getx-PinkApp)
