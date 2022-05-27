@@ -1,5 +1,5 @@
 ## Hello GitHub Fans 👋
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Coder-ZhaoLu&show_icons=true&theme=dark&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Coder-ZhaoLu&show_icons=true&theme=dracula&count_private=true)
 
 ### I'm Zhao Lu
 [![Golang/Flutter交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "Golang/Flutter交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "Golang/Flutter交流群")
