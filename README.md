@@ -27,6 +27,7 @@
 - [基于flutter的仿哔哩哔哩app](https://github.com/Coder-ZhaoLu/Getx-PinkApp)
 - [基于gin框架的仿哔哩哔哩app后端](https://github.com/Coder-ZhaoLu/Gin-PinkApp)
 - [基于cdh大数据环境的app推荐系统端](https://github.com/Coder-ZhaoLu/Recommend-PinkApp)
+- [使用vue3+golang写的ACG动漫程序](https://github.com/Coder-ZhaoLu/pinkmoe)
 
 ### 关于我
 - [技术笔记](https://coderzhaolu.com/)
