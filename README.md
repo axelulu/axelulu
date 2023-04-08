@@ -1,7 +1,7 @@
 
 ## 今年汇总 ✨
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Coder-ZhaoLu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-ZhaoLu&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=kvannew&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvannew&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 ### I'm Zhao Lu
 [![Golang/Flutter交流群](https://img.shields.io/badge/Golang/Flutter交流QQ群-829704922-red.svg "Golang/Flutter交流群")](https://jq.qq.com/?_wv=1027&k=3y4x4hMk)
@@ -24,10 +24,10 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目
-- [基于flutter的仿哔哩哔哩app](https://github.com/Coder-ZhaoLu/Getx-PinkApp)
-- [基于gin框架的仿哔哩哔哩app后端](https://github.com/Coder-ZhaoLu/Gin-PinkApp)
-- [基于cdh大数据环境的app推荐系统端](https://github.com/Coder-ZhaoLu/Recommend-PinkApp)
-- [使用vue3+golang写的ACG动漫程序](https://github.com/Coder-ZhaoLu/pinkmoe)
+- [基于flutter的仿哔哩哔哩app](https://github.com/kvannew/Getx-PinkApp)
+- [基于gin框架的仿哔哩哔哩app后端](https://github.com/kvannew/Gin-PinkApp)
+- [基于cdh大数据环境的app推荐系统端](https://github.com/kvannew/Recommend-PinkApp)
+- [使用vue3+golang写的ACG动漫程序](https://github.com/kvannew/pinkmoe)
 
 ### 关于我
 - [技术笔记](https://kvannew.com/)
@@ -35,4 +35,4 @@
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
-⭐️ From [Coder-ZhaoLu](https://github.com/Coder-ZhaoLu)
+⭐️ From [kvannew](https://github.com/kvannew)
