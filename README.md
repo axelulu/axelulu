@@ -5,7 +5,7 @@
 
 ### I'm Zhao Lu
 [![Golang/Flutter交流群](https://img.shields.io/badge/Golang/Flutter交流QQ群-829704922-red.svg "Golang/Flutter交流群")](https://jq.qq.com/?_wv=1027&k=3y4x4hMk)
-[![Mail Badge](https://img.shields.io/badge/-coderzhaolu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:coderzhaolu@gmail.com)](mailto:coderzhaolu@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-kvannew@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kvannew@gmail.com)](mailto:kvannew@gmail.com)
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - ⚡ Fun fact: Data Analysis📊
 
@@ -30,7 +30,7 @@
 - [使用vue3+golang写的ACG动漫程序](https://github.com/Coder-ZhaoLu/pinkmoe)
 
 ### 关于我
-- [技术笔记](https://coderzhaolu.com/)
+- [技术笔记](https://kvannew.com/)
 - [BiliBili](https://space.bilibili.com/27861636)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
