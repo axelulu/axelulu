@@ -1,4 +1,4 @@
-This message is used to verify that this feed (feedId:61632906548529152) belongs to me (userId:41877298754706432). Join me in enjoying the next generation information browser https://follow.is.
+
 
 ## 今年汇总 ✨
 
